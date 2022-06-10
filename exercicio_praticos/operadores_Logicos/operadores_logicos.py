@@ -1,9 +1,11 @@
-imposto = float(input("Imposto:"))
-if imposto < 10.:
-    print("Baixo")
-elif imposto >= 10. and imposto <= 27. :
-    print("Medio")
-elif imposto > 27. and imposto < 100:
-    print("Alto")
-else:
-    print("Imposto Inválido")
+salario = int(input("Salario? "))
+imposto = 27.
+while imposto > 0:
+    imposto = input("Imposto ou(s) para sair: ")
+    if not imposto:
+        imposto = 27.
+    elif imposto == "s":
+        break
+    else:
+        imposto = float(imposto)
+    print("Valor real: {0}".format(salario - (salario * imposto * 0.01)))
