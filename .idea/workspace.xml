@@ -1,105 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fcef122-663b-4608-add0-8e8efb1f877a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Curso_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/copiando_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/dicionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/dicionario_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/e_se.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/enquanto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/fatiando_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/funcoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/if_else2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/if_else3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/laco_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/laco_for_novo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/meu_primeiro_programa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/tuplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_em_video/variaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/alien_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/bicycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/dicionario_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/lista_nomes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/magicians.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/motocycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_capitulo3/transporte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/aula06b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/aula07a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/aulo06a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/desafio_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/desafio_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/desafio_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ext008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guanabara_python/ordem_precedencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/projectName/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/projectName/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/projectName/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/projectName/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectName/projectName/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/004/comentario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/005/variaveis_inteiros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/006/soma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/007/cachorros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/007/exercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/007/exercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/007/operacaoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/008/balada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/009/balada2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/009/exercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/009/exercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/010/comparacoes_multiplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/010/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/011/dia da semana.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/Calculadora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/Produtos.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/coneccao_postgresql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/conectar_postgres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/dicionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/geeksforgeeks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/geeksforgeeks1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/grafico_exemplo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/importar_xls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/list_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/test_panas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/texto.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/totoloto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/trabalhar_com_Arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/olds/university_records.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/teste/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/teste/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/teste/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/teste/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/teste/Untitled1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_iniciantes/teste/Untitled2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2fcef122-663b-4608-add0-8e8efb1f877a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bot" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -339,16 +241,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/curso_em_video/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
