@@ -2,6 +2,7 @@
     "recommendations": [
         "shan.code-settings-sync",
         "ms-toolsai.jupyter-keymap",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-renderers"
     ]
 }
