@@ -1,0 +1,2 @@
+nome = "Rodrigo"
+nome
